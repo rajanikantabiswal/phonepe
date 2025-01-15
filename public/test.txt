@@ -1,0 +1,8 @@
+* Host api.phonepe.com:443 was resolved.
+* IPv6: (none)
+* IPv4: 104.18.40.97, 172.64.147.159
+*   Trying 104.18.40.97:443...
+* Connected to api.phonepe.com (104.18.40.97) port 443
+* ALPN: curl offers h2,http/1.1
+* SSL certificate problem: unable to get local issuer certificate
+* Closing connection
